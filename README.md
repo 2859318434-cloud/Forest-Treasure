@@ -112,3 +112,22 @@ v1.0 — Initial playable release
 
 \*Created as a personal Unity game development learning project.\*
 
+
+---
+
+## Game Screenshots
+
+### Main Menu
+![Main Menu](Screenshots/01_MainMenu.png)
+
+### Forest Exploration
+![Forest Exploration](Screenshots/02_ForestExploration.png)
+
+### Crystal Collection
+![Crystal Collection](Screenshots/03_CrystalCollection.png)
+
+### Treasure Chest & Golden Key
+![Treasure Chest](Screenshots/04_TreasureChest.png)
+
+### Unlocked Portal
+![Unlocked Portal](Screenshots/05_UnlockedPortal.png)
