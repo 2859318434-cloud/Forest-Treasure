@@ -1,4 +1,4 @@
-\# FOREST TREASURE
+# FOREST TREASURE
 
 
 
@@ -6,7 +6,7 @@ A Third-Person 3D Exploration Game
 
 
 
-\## About the Project
+## About the Project
 
 
 
@@ -22,35 +22,35 @@ This project was created as a practical learning experience to explore Unity's c
 
 
 
-\## Gameplay Features
+## Gameplay Features
 
 
 
-\- Third-person character movement and jumping
+- Third-person character movement and jumping
 
-\- Camera follow and mouse-controlled rotation
+- Camera follow and mouse-controlled rotation
 
-\- Crystal collection system
+- Crystal collection system
 
-\- Golden key interaction
+- Golden key interaction
 
-\- Treasure chest animation and interaction
+- Treasure chest animation and interaction
 
-\- Portal unlocking system
+- Portal unlocking system
 
-\- Particle effects and glowing materials
+- Particle effects and glowing materials
 
-\- Environmental audio and interaction sound effects
+- Environmental audio and interaction sound effects
 
-\- Quest objective UI
+- Quest objective UI
 
-\- Main menu and pause menu
+- Main menu and pause menu
 
-\- Victory and restart systems
+- Victory and restart systems
 
 
 
-\## Controls
+## Controls
 
 
 
@@ -70,27 +70,27 @@ This project was created as a practical learning experience to explore Unity's c
 
 
 
-\## Built With
+## Built With
 
 
 
-\- Unity 6.5
+- Unity 6.5
 
-\- C#
+- C#
 
-\- Universal Render Pipeline (URP)
+- Universal Render Pipeline (URP)
 
-\- TextMeshPro
+- TextMeshPro
 
-\- Unity Input System
+- Unity Input System
 
-\- Unity Animator
+- Unity Animator
 
-\- Unity Particle System
+- Unity Particle System
 
 
 
-\## Development
+## Development
 
 
 
@@ -98,7 +98,7 @@ This project was developed as an individual learning project, with a focus on un
 
 
 
-\## Version
+## Version
 
 
 
@@ -106,7 +106,7 @@ v1.0 — Initial playable release
 
 
 
-\---
+---
 
 
 
